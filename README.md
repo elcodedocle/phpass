@@ -7,16 +7,16 @@ phpass by elcodedocle
  
 ### How to use
 
-The same way as regular phpass; check out the phpdoc included on docs folder for the extras
+The same way as regular phpass; check out the phpdoc included on docs folder for the extras.
 
 
 ### Motivation
 
-I wanted to implement proper hashing on my web app. password\_hash seemed the way to go, but it's only supported by the most recent versions of PHP (at the time of writing this, PHP 5.5.0 was realeased just a few months ago...)
+I wanted to implement proper hashing on my web app. password\_hash seemed the way to go, but it's only supported by the most recent versions of PHP (at the time of writing this, PHP 5.5.0 was realeased just a few months ago...).
 
-So I did some research and the most reasonably fast and tested library was by phpass, but it lacked support for, guess what, password\_hash. Since password\_hash should be the default option (at last, a sane way to use crypt!) and none of the other phpass hacks I checked (Drupal, WordPress) had it I decided to add it myself
+So I did some research and the most reasonably fast and tested library was phpass, but it lacked support for, guess what, password\_hash. Since password\_hash should be the default option (at last, a sane way to use crypt!) and none of the other phpass hacks I checked (Drupal, WordPress) had it I decided to add it myself.
 
-In the process, adding also support for sha512 and sha256 on portable methods seemed easy enough, so I beefed that up too
+In the process, adding also support for sha512 and sha256 on portable methods seemed easy enough, so I beefed that up too.
 
 ### Acks
 
