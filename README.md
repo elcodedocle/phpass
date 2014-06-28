@@ -3,7 +3,8 @@ phpass by elcodedocle
 #####*A phpass portable PHP password hashing framework upgrade for these modern times we're living in*
 
  Copyright (C) 2013 Gael Abadin<br/>
- License: [MIT Expat][1]
+ License: [MIT Expat][1]<br />
+ [![Code Climate](https://codeclimate.com/repos/53aee0b3e30ba0063b00797f/badges/2d33d0045e72f478059d/gpa.png)](https://codeclimate.com/repos/53aee0b3e30ba0063b00797f/feed)
  
 ### How to use
 
