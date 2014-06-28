@@ -4,8 +4,8 @@ phpass by elcodedocle
 
  Copyright (C) 2013 Gael Abadin<br/>
  License: [MIT Expat][1]<br />
- [![Code Climate](https://codeclimate.com/repos/53aee0b3e30ba0063b00797f/badges/2d33d0045e72f478059d/gpa.png)](https://codeclimate.com/repos/53aee0b3e30ba0063b00797f/feed)
- 
+ [![Code Climate](https://codeclimate.com/github/elcodedocle/phpass.png)](https://codeclimate.com/github/elcodedocle/phpass) 
+
 ### How to use
 
 The same way as regular phpass; check out the phpdoc included on docs folder for the extras.
