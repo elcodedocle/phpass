@@ -8,7 +8,7 @@ phpass by elcodedocle
 
 ### How to use
 
-The same way as regular phpass; check out the phpdoc included on docs folder for the extras.
+The same way as regular phpass; check out the embedded phpdoc for info on the extras.
 
 
 ### Motivation
