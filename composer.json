@@ -4,7 +4,7 @@
     "description": "fork of Solar Designer's http://www.openwall.com/phpass/ with enhanced security updates",
     "keywords": ["phpass", "password hashing", "secure password storage", "rainbow attack protection", "bcrypt", "password_hash", "password_verify", "password salting"],
     "homepage": "https://github.com/elcodedocle/phpass",
-    "license": "MIT Expat",
+    "license": "MIT",
     "require": {
         "php": ">=3.0.18"
     }
